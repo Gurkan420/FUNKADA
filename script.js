@@ -1,0 +1,2 @@
+myFunction = ("haha")
+    alert("HAHAHAHA")
